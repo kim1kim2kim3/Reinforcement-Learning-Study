@@ -6,7 +6,7 @@
 |  4   |   double Dqn   |  준비중   |          |
 |  5   |  Dueling Dqn   |  준비중   |          |
 |  6   |  Rainbow Dqn   |  준비중   |          |
-|  7   |      A2C       |  준비중   |          |
+|  7   |      A2C       |  준비중   |     A2C     |
 |  8   |      A3C       |  준비중   |          |
 |  9   |  Actor-Critic  |  준비중   |          |
 | 10   |      A3C       |  준비중   |          |
