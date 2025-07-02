@@ -2,7 +2,7 @@
 |:----:|:--------------:|:--------:|:--------------------:|
 |  1   |      Dqn       |   완료    |     dqn/dqn.py     |
 |  2   |   REINFORCE    |  진행 중  |       REINFORCE    |
-|  3   |    Dqn_per     |  준비중   |          |
+|  3   |    Dqn_per     |  준비중   |      PER/Carracing.py    |
 |  4   |   double Dqn   |  준비중   |          |
 |  5   |  Dueling Dqn   |  준비중   |          |
 |  6   |  Rainbow Dqn   |  준비중   |          |
