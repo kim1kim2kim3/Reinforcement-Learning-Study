@@ -36,8 +36,8 @@ ALPHA = 0.6  # how much prioritization is used (0 = uniform)
 BETA_START = 0.4  # importance‑sampling weight at start
 BETA_FRAMES = 1_000_000  # frames over which beta → 1.0
 
-LOG_PATH = "/home/id202588519/training_log_per_ver2.csv"
-SAVE_DIR = "/home/id202588519/models_per_ver2" 
+LOG_PATH = "training_log_per.csv"
+SAVE_DIR = "models_per" 
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
 os.makedirs(SAVE_DIR, exist_ok=True)
